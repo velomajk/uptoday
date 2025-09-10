@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
+  <channel>
+    <title>UpToDay – Crypto</title>
+    <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
+    <atom:link href="https://velomajk.github.io/uptoday/feeds/crypto/feed.xml"
+               rel="self" type="application/rss+xml"/>
+
+    <language>en-us</language>
+    <description>Short daily updates on crypto. Not financial advice.</description>
+    <copyright>© 2025 UpToDay</copyright>
+    <lastBuildDate>Wed, 10 Sep 2025 08:00:00 GMT</lastBuildDate>
+
+    <itunes:author>UpToDay</itunes:author>
+    <itunes:owner>
+      <itunes:name>Majk</itunes:name>
+      <itunes:email>majk@veloscope.me</itunes:email>
+    </itunes:owner>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:category text="News">
+      <itunes:category text="Business"/>
+    </itunes:category>
+    <itunes:image href="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-crypto/uptoday-crypto-cover.png"/>
+    
+    <!-- No <item> entries yet -->
+  </channel>
+</rss>
