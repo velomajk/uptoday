@@ -1,13 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+
   <channel>
     <title>UpToDay – Crypto</title>
     <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
-    <atom:link href="https://velomajk.github.io/uptoday/feeds/crypto/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://velomajk.github.io/uptoday/feeds/crypto/feed.xml"
+               rel="self" type="application/rss+xml"/>
+
     <language>en-us</language>
     <description>Short daily updates on crypto. Not financial advice.</description>
     <copyright>© 2025 UpToDay</copyright>
     <lastBuildDate>Wed, 10 Sep 2025 08:00:00 GMT</lastBuildDate>
+
     <itunes:author>UpToDay</itunes:author>
     <itunes:owner>
       <itunes:name>Majk</itunes:name>
@@ -18,19 +24,7 @@
       <itunes:category text="Business"/>
     </itunes:category>
     <itunes:image href="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-crypto/uptoday-crypto-cover.png"/>
-    <item>
-      <title>UpToDay Crypto — 10 November 2025</title>
-      <description>## Stories &amp; Sources
-- 1. Uniswap proposes 'UNIfication' with UNI burn and fee changes — https://www.coindesk.com/tech/2025/11/10/uniswap-proposes-sweeping-unification-with-uni-burn-and-protocol-fee-overhaul
-- 2. Coinbase launches public token sales platform; Monad first issuer — https://www.theblock.co/post/378177/coinbase-public-token-sales-ico-platform-monad-first?utm_source=rss&amp;utm_medium=rss
-- 3. IRS issues guidance to allow ETPs to stake assets — https://www.theblock.co/post/378247/irs-issues-guidance-allowing-crypto-etps-stake-digital-assets?utm_source=rss&amp;utm_medium=rss
-- 4. BitMine's ETH holdings surpass 3.5M, hitting 2.9% of supply — https://www.theblock.co/post/378217/bitmines-share-of-ethereum-supply-hits-2-9-as-firms-eth-holdings-pass-3-5-million?utm_source=rss&amp;utm_medium=rss
-- 5. Strategy raises $715M in Europe to buy more Bitcoin — https://decrypt.co/347825/strategy-raises-715-million-europe-buy-bitcoin
-_Not financial advice..._</description>
-      <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
-      <pubDate>Mon, 10 Nov 2025 22:27:26 GMT</pubDate>
-      <guid isPermaLink="false">20251110-uptoday-crypto--10-november-2025</guid>
-      <enclosure url="podcasts/uptoday/uptoday-crypto/uptoday-crypto-10-Nov-2025.mp3" type="audio/mpeg"/>
-    </item>
+    
+    <!-- No <item> entries yet -->
   </channel>
 </rss>
