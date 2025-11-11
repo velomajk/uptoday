@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-     xmlns:atom="http://www.w3.org/2005/Atom">
-
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>UpToDay – Crypto</title>
     <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
-    <atom:link href="https://velomajk.github.io/uptoday/feeds/crypto/feed.xml"
-               rel="self" type="application/rss+xml"/>
-
+    <atom:link href="https://velomajk.github.io/uptoday/feeds/crypto/feed.xml" rel="self" type="application/rss+xml"/>
     <language>en-us</language>
     <description>Short daily updates on crypto. Not financial advice.</description>
     <copyright>© 2025 UpToDay</copyright>
     <lastBuildDate>Wed, 10 Sep 2025 08:00:00 GMT</lastBuildDate>
-
     <itunes:author>UpToDay</itunes:author>
     <itunes:owner>
       <itunes:name>Majk</itunes:name>
@@ -24,7 +18,19 @@
       <itunes:category text="Business"/>
     </itunes:category>
     <itunes:image href="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-crypto/uptoday-crypto-cover.png"/>
-    
-    <!-- No <item> entries yet -->
+    <item>
+      <title>UpToDay Crypto — 11 November 2025</title>
+      <description>## Stories &amp; Sources
+- 1. Coinbase abandons $2 billion BVNK acquisition — https://decrypt.co/348230/coinbase-abandons-2-billion-acquisition-stablecoin-firm-bvnk-fortune
+- 2. JPMorgan and DBS team on tokenised deposit framework — https://www.coindesk.com/business/2025/11/11/jpmorgan-and-dbs-bank-team-up-on-cross-border-tokenised-deposit-framework
+- 3. Lighter raises $68M at $1.5B valuation — https://www.coindesk.com/business/2025/11/11/lighter-raises-usd68m-at-usd1-5b-valuation-to-take-on-decentralized-derivatives-rivals
+- 4. CleanSpark upsizes $1.15B convertible; shares dip 5% — https://www.coindesk.com/markets/2025/11/11/cleanspark-shares-drop-5-after-upsizing-usd1-15b-convertible-note-for-expansion
+- 5. SoFi launches crypto trading, cites 'bank-level confidence' — https://www.coindesk.com/business/2025/11/11/sofi-launches-crypto-trading-citing-bank-level-confidence-as-key-edge
+_Not financial advice..._</description>
+      <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
+      <pubDate>Tue, 11 Nov 2025 20:52:33 GMT</pubDate>
+      <guid isPermaLink="false">20251111-uptoday-crypto--11-november-2025</guid>
+      <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-11-Nov-2025.mp3" type="audio/mpeg" length="1866232"/>
+    </item>
   </channel>
 </rss>
