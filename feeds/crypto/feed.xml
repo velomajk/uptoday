@@ -33,5 +33,17 @@ _Not financial advice..._</description>
           <guid isPermaLink="false">new-uptoday-crypto--29-november-2025</guid>
           <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-30-Nov-2025.mp3" type="audio/mpeg" length="1581602" />
         </item>
+        <item>
+          <title>UpToDay Crypto — 30 November 2025</title>
+          <description>## Stories &amp; Sources
+- 1. Bitcoin posts second-worst month of 2025 after heavy outflows — https://beincrypto.com/bitcoin-price-november-second-worst-month-of-2025/
+- 2. Cardano down 31% in November as money flow weakens and supply rises — https://beincrypto.com/cardano-ada-price-major-risk-december-2025/
+
+_Not financial advice..._</description>
+          <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
+          <pubDate>Sun, 30 Nov 2025 12:02:11 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-crypto--30-november-2025</guid>
+          <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-30-Nov-2025.mp3" type="audio/mpeg" length="2366111" />
+        </item>
     </channel>
 </rss>
