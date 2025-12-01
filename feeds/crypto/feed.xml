@@ -30,5 +30,20 @@ _Not financial advice..._</description>
           <guid isPermaLink="false">new-uptoday-crypto--30-november-2025</guid>
           <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-30-Nov-2025.mp3" type="audio/mpeg" length="2366111" />
         </item>
+        <item>
+          <title>UpToDay Crypto — 1 December 2025</title>
+          <description>## Stories &amp; Sources
+- 1. Japan&apos;s Bond Shock Slams Crypto: $640 Million Liquidated as 10-Year JGB Hits 17-Year High — https://beincrypto.com/japan-bond-yield-surge-crypto-liquidation/
+- 2. Spot bitcoin ETF outflows hit $3.5 billion in November, largest monthly outflow since February — https://www.theblock.co/post/380847
+- 3. Japan to Cut Crypto Tax Burden to 20% Uniform Rate in Boost for Local Bitcoin Traders — https://www.coindesk.com/markets/2025/12/01/japan-to-cut-crypto-tax-burden-to-20-uniform-rate-in-boost-for-local-bitcoin-traders
+- 4. China to Intensify Crackdown on Virtual Currencies, Including Stablecoins: Report — https://www.coindesk.com/markets/2025/12/01/china-to-intensify-crackdown-on-virtual-currencies-including-stablecoins-report
+- 5. Israel&apos;s Central Bank Signals Improved Stablecoin Oversight as Digital Shekel Plans Advance — https://www.coindesk.com/business/2025/12/01/israel-s-central-bank-signals-improved-stablecoin-oversight-as-digital-shekel-plans-advance
+
+_Not financial advice..._</description>
+          <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
+          <pubDate>Mon, 01 Dec 2025 12:02:37 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-crypto--1-december-2025</guid>
+          <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-01-Dec-2025.mp3" type="audio/mpeg" length="1370115" />
+        </item>
     </channel>
 </rss>
