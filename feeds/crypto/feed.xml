@@ -29,7 +29,7 @@ _Not financial advice..._</description>
           <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
           <pubDate>Sun, 30 Nov 2025 12:02:11 GMT</pubDate>
           <guid isPermaLink="false">new-uptoday-crypto--30-november-2025</guid>
-          <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-30-Nov-2025.mp3" type="audio/mpeg" length="2366111" />
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-crypto/uptoday-crypto-30-Nov-2025.mp3" type="audio/mpeg" length="2366111" />
         </item>
         <item>
           <title>UpToDay Crypto — 1 December 2025</title>
@@ -44,7 +44,7 @@ _Not financial advice..._</description>
           <link>https://velomajk.github.io/uptoday/feeds/crypto/feed.xml</link>
           <pubDate>Mon, 01 Dec 2025 12:02:37 GMT</pubDate>
           <guid isPermaLink="false">new-uptoday-crypto--1-december-2025</guid>
-          <enclosure url="https://www.googleapis.com/storage/v1/b/up-to-day-podcasts/o/podcasts%2Fuptoday%2Fuptoday-crypto%2Fuptoday-crypto-01-Dec-2025.mp3" type="audio/mpeg" length="1370115" />
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-crypto/uptoday-crypto-01-Dec-2025.mp3" type="audio/mpeg" length="1370115" />
         </item>
     </channel>
 </rss>
