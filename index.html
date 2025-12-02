@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>UpToDay</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet"
+        href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0" />
+</head>
+
+<body>
+    <div class="app-layout">
+        <aside class="sidebar">
+            <div class="logo">
+                <h1>UpToDay</h1>
+            </div>
+            <nav class="main-nav">
+                <ul>
+                    <li class="active" id="nav-home">
+                        <span class="material-symbols-outlined icon">home</span> Home
+                    </li>
+                    <!-- Future: Search, Library -->
+                </ul>
+            </nav>
+            <div class="library-section">
+                <div class="library-header">
+                    <span class="material-symbols-outlined icon">podcasts</span> Podcasts
+                </div>
+                <ul class="library-list" id="library-list">
+                    <!-- Feeds will be injected here -->
+                </ul>
+            </div>
+            <div id="contact-container"></div>
+        </aside>
+
+        <main class="main-content" id="main-view">
+            <header class="top-bar">
+                <!-- Navigation history or user profile could go here -->
+            </header>
+            <div class="content-scroll">
+                <div id="view-container">
+                    <!-- Dynamic Content (Grid or Episode List) -->
+                </div>
+            </div>
+        </main>
+
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>
