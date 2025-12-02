@@ -17,5 +17,12 @@
     <itunes:category text="News">
       <itunes:category text="Technology"/>
     </itunes:category>
+        <item>
+      <title>Test Episode - Formatted Description</title>
+      <description><![CDATA[<b>Stories & Sources</b><br/>1. Japan's Bond Shock Slams Crypto: $640 Million Liquidated as 10-Year JGB Hits 17-Year High — <a href="https://beincrypto.com/japan-bond-yield-surge-crypto-liquidation/">https://beincrypto.com/japan-bond-yield-surge-crypto-liquidation/</a><br/>2. Spot bitcoin ETF outflows hit $3.5 billion in November, largest monthly outflow since February — <a href="https://www.theblock.co/post/380847">https://www.theblock.co/post/380847</a><br/>3. Japan to Cut Crypto Tax Burden to 20% Uniform Rate in Boost for Local Bitcoin Traders — <a href="https://www.coindesk.com/markets/2025/12/01/japan-to-cut-crypto-tax-burden-to-20-uniform-rate-in-boost-for-local-bitcoin-traders">https://www.coindesk.com/markets/2025/12/01/japan-to-cut-crypto-tax-burden-to-20-uniform-rate-in-boost-for-local-bitcoin-traders</a><br/>4. China to Intensify Crackdown on Virtual Currencies, Including Stablecoins: Report — <a href="https://www.coindesk.com/markets/2025/12/01/china-to-intensify-crackdown-on-virtual-currencies-including-stablecoins-report">https://www.coindesk.com/markets/2025/12/01/china-to-intensify-crackdown-on-virtual-currencies-including-stablecoins-report</a><br/>5. Israel's Central Bank Signals Improved Stablecoin Oversight as Digital Shekel Plans Advance — <a href="https://www.coindesk.com/business/2025/12/01/israel-s-central-bank-signals-improved-stablecoin-oversight-as-digital-shekel-plans-advance">https://www.coindesk.com/business/2025/12/01/israel-s-central-bank-signals-improved-stablecoin-oversight-as-digital-shekel-plans-advance</a><br/><br/><i>Not financial advice...</i>]]></description>
+      <pubDate>Mon, 01 Dec 2025 12:00:00 GMT</pubDate>
+      <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-tech/audio/test.mp3" length="0" type="audio/mpeg"/>
+      <guid>test-episode-1</guid>
+    </item>
   </channel>
 </rss>
