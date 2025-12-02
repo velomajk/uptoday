@@ -1,0 +1,33 @@
+name: Update Manifest
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'feeds/**'
+      - 'generate_manifest.py'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Run manifest generator
+      run: python generate_manifest.py
+
+    - name: Commit and push if changed
+      run: |
+        git config --global user.name 'GitHub Action'
+        git config --global user.email 'action@github.com'
+        git add feeds.json
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update feeds.json" && git push)
