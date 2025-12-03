@@ -17,19 +17,6 @@
     <itunes:category text="News">
       <itunes:category text="Technology"/>
     </itunes:category>
-      <item>
-          <title>UpToDay Tech — 3 December 2025</title>
-          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
-- 1. Anthropic acquires Bun as Claude Code hits $1B run-rate — &lt;a href=&quot;https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone&quot;&gt;https://www.anthropic.com/news/anthropic-acquires-bun-as-claude-code-reaches-usd1b-milestone&lt;/a&gt;
-- 2. Mixture-of-experts Powers the Most Intelligent Frontier AI Models, Runs 10x Faster on NVIDIA GB200 NVL72 — &lt;a href=&quot;https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/&quot;&gt;https://blogs.nvidia.com/blog/mixture-of-experts-frontier-models/&lt;/a&gt;
-- 3. We&apos;re announcing new health AI funding, while a new report signals a turning point for health in Europe. — &lt;a href=&quot;https://blog.google/technology/health/ai-health-fund-eu/&quot;&gt;https://blog.google/technology/health/ai-health-fund-eu/&lt;/a&gt;
-- 4. Look back on your 2025 with Google Photos Recap — &lt;a href=&quot;https://blog.google/products/photos/google-photos-2025-recap/&quot;&gt;https://blog.google/products/photos/google-photos-2025-recap/&lt;/a&gt;
-
-&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Sources linked above.&lt;/i&gt;</description>
-          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
-          <pubDate>Wed, 03 Dec 2025 22:37:01 GMT</pubDate>
-          <guid isPermaLink="false">new-uptoday-tech--3-december-2025</guid>
-          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-03-Dec-2025.mp3" type="audio/mpeg" length="3137664" />
-        </item>
+      
     </channel>
 </rss>
