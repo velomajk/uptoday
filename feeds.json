@@ -1,5 +1,13 @@
 [
   {
+    "path": "feeds/ai/feed.xml",
+    "folder": "ai",
+    "title": "UpToDay \u2013 AI",
+    "description": "Short daily updates on AI. Comming soon...",
+    "image": "",
+    "email": "majk@veloscope.me"
+  },
+  {
     "path": "feeds/crypto/feed.xml",
     "folder": "crypto",
     "title": "UpToDay \u2013 Crypto",
