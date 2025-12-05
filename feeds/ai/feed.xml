@@ -19,5 +19,17 @@
     </itunes:category>
     <itunes:image href="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-cover.jpg"/>
 
+        <item>
+          <title>UpToDay AI — 5 December 2025</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI launches OpenAI for Australia to build sovereign AI infrastructure — &lt;a href=&quot;https://openai.com/global-affairs/openai-for-australia&quot;&gt;https://openai.com/global-affairs/openai-for-australia&lt;/a&gt;
+- 2. NVIDIA discounts Jetson kits; real-world robotics and edge AI projects highlighted — &lt;a href=&quot;https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/&quot;&gt;https://blogs.nvidia.com/blog/jetson-edge-ai-holiday-2025/&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;Not financial advice.&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Fri, 05 Dec 2025 11:18:11 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--5-december-2025</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-05-Dec-2025.mp3" type="audio/mpeg" length="1182033" />
+        </item>
     </channel>
 </rss>
