@@ -42,5 +42,21 @@
           <guid isPermaLink="false">new-uptoday-ai--9-december-2025</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-09-Dec-2025.mp3" type="audio/mpeg" length="545899" />
         </item>
+        <item>
+          <title>UpToDay AI — 20 December 2025</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI launches GPT-5.2-Codex, a more capable coding model — &lt;a href=&quot;https://openai.com/index/introducing-gpt-5-2-codex&quot;&gt;https://openai.com/index/introducing-gpt-5-2-codex&lt;/a&gt;
+- 2. OpenAI publishes chain-of-thought monitorability framework and evaluation suite — &lt;a href=&quot;https://openai.com/index/evaluating-chain-of-thought-monitorability&quot;&gt;https://openai.com/index/evaluating-chain-of-thought-monitorability&lt;/a&gt;
+- 3. NVIDIA joins DOE Genesis Mission to boost U.S. AI infrastructure and R&amp;D — &lt;a href=&quot;https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/&quot;&gt;https://blogs.nvidia.com/blog/nvidia-us-government-to-boost-ai-infrastructure-and-rd-investments/&lt;/a&gt;
+- 4. NVIDIA releases RTX PRO 5000 72GB Blackwell GPU for desktop AI workflows — &lt;a href=&quot;https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/&quot;&gt;https://blogs.nvidia.com/blog/rtx-pro-5000-72gb-blackwell-gpu/&lt;/a&gt;
+- 5. Google adds AI-generated video verification to the Gemini app — &lt;a href=&quot;https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/&quot;&gt;https://blog.google/technology/ai/verify-google-ai-videos-gemini-app/&lt;/a&gt;
+- 6. ElevenLabs unveils Eleven v3 (alpha) — a more expressive TTS model — &lt;a href=&quot;https://elevenlabs.io/blog/eleven-v3&quot;&gt;https://elevenlabs.io/blog/eleven-v3&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sat, 20 Dec 2025 23:16:08 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--20-december-2025</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-21-Dec-2025.mp3" type="audio/mpeg" length="3318222" />
+        </item>
     </channel>
 </rss>
