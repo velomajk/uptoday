@@ -15,8 +15,8 @@
       <itunes:email>majk@veloscope.me</itunes:email>
     </itunes:owner>
     <itunes:explicit>false</itunes:explicit>
-    <itunes:category text="News">
-      <itunes:category text="Business"/>
+    <itunes:category text="Business">
+      <itunes:category text="Finance"/>
     </itunes:category>
     <itunes:image href="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-crypto/uptoday-crypto-cover.jpg"/>
         <item>
