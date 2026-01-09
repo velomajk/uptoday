@@ -58,5 +58,18 @@
           <guid isPermaLink="false">new-uptoday-ai--20-december-2025</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-21-Dec-2025.mp3" type="audio/mpeg" length="3318222" />
         </item>
+        <item>
+          <title>UpToDay AI — 9 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI and SoftBank Group invest $500M each in SB Energy; SB Energy to build OpenAI&apos;s 1.2 GW Milam County data center — &lt;a href=&quot;https://openai.com/index/stargate-sb-energy-partnership&quot;&gt;https://openai.com/index/stargate-sb-energy-partnership&lt;/a&gt;
+- 2. NVIDIA releases MAIW and Retail Catalog Enrichment blueprints to modernize warehouse and product workflows — &lt;a href=&quot;https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/&quot;&gt;https://blogs.nvidia.com/blog/multi-agent-intelligent-warehouse-and-catalog-enrichment-blueprints/&lt;/a&gt;
+- 3. Datadog deploys Codex for system-level code review; finds AI would have prevented roughly 22% of examined incidents — &lt;a href=&quot;https://openai.com/index/datadog&quot;&gt;https://openai.com/index/datadog&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Fri, 09 Jan 2026 22:05:06 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--9-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-09-Jan-2026.mp3" type="audio/mpeg" length="2840913" />
+        </item>
     </channel>
 </rss>
