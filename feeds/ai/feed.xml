@@ -71,5 +71,19 @@
           <guid isPermaLink="false">new-uptoday-ai--9-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-09-Jan-2026.mp3" type="audio/mpeg" length="2840913" />
         </item>
+        <item>
+          <title>UpToDay AI — 14 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. NVIDIA and Lilly unveil AI co-innovation lab to accelerate drug discovery — &lt;a href=&quot;https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/&quot;&gt;https://blogs.nvidia.com/blog/jpmorgan-healthcare-nvidia-lilly/&lt;/a&gt;
+- 2. TCS and AMD launch strategic collaboration to drive enterprise AI at scale — &lt;a href=&quot;https://ir.amd.com/news-events/press-releases/detail/1274/tcs-and-amd-announce-strategic-collaboration-to-drive-ai-adoption-at-scale&quot;&gt;https://ir.amd.com/news-events/press-releases/detail/1274/tcs-and-amd-announce-strategic-collaboration-to-drive-ai-adoption-at-scale&lt;/a&gt;
+- 3. Google updates Veo 3.1: better ingredients-to-video, vertical outputs and 4K upscaling — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/&quot;&gt;https://blog.google/innovation-and-ai/technology/ai/veo-3-1-ingredients-to-video/&lt;/a&gt;
+- 4. Japanese firm Zenken boosts sales and translation with ChatGPT Enterprise — &lt;a href=&quot;https://openai.com/index/zenken&quot;&gt;https://openai.com/index/zenken&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Wed, 14 Jan 2026 11:18:22 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--14-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-14-Jan-2026.mp3" type="audio/mpeg" length="3171101" />
+        </item>
     </channel>
 </rss>
