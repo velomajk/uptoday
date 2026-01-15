@@ -85,5 +85,18 @@
           <guid isPermaLink="false">new-uptoday-ai--14-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-14-Jan-2026.mp3" type="audio/mpeg" length="3171101" />
         </item>
+        <item>
+          <title>UpToDay AI — 15 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI partners with Cerebras to add 750MW of low-latency compute — &lt;a href=&quot;https://openai.com/index/cerebras-partnership&quot;&gt;https://openai.com/index/cerebras-partnership&lt;/a&gt;
+- 2. Kaggle launches Community Benchmarks for community-driven AI evaluation — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/&quot;&gt;https://blog.google/innovation-and-ai/technology/developers-tools/kaggle-community-benchmarks/&lt;/a&gt;
+- 3. Deutsche Telekom partners with ElevenLabs to deploy AI voice agents in customer service — &lt;a href=&quot;https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership&quot;&gt;https://elevenlabs.io/blog/deutsche-telekom-and-elevenlabs-announce-partnership&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Thu, 15 Jan 2026 11:19:58 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--15-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-15-Jan-2026.mp3" type="audio/mpeg" length="2007502" />
+        </item>
     </channel>
 </rss>
