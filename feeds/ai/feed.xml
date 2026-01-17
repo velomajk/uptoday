@@ -109,5 +109,18 @@
           <guid isPermaLink="false">new-uptoday-ai--16-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-16-Jan-2026.mp3" type="audio/mpeg" length="1452035" />
         </item>
+        <item>
+          <title>UpToDay AI — 17 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Eleven Labs debuts Eleven v3 (alpha), a very expressive TTS research preview — &lt;a href=&quot;https://elevenlabs.io/blog/eleven-v3&quot;&gt;https://elevenlabs.io/blog/eleven-v3&lt;/a&gt;
+- 2. Conversational AI is now ElevenLabs Agents; the platform adds workflow and testing tools — &lt;a href=&quot;https://elevenlabs.io/blog/introducing-elevenlabs-agents&quot;&gt;https://elevenlabs.io/blog/introducing-elevenlabs-agents&lt;/a&gt;
+- 3. OpenAI disputes Elon Musk&apos;s court filing, cites Brockman journal entries and negotiation timeline — &lt;a href=&quot;https://openai.com/index/the-truth-elon-left-out&quot;&gt;https://openai.com/index/the-truth-elon-left-out&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sat, 17 Jan 2026 11:18:46 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--17-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-17-Jan-2026.mp3" type="audio/mpeg" length="2702569" />
+        </item>
     </channel>
 </rss>
