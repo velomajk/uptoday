@@ -137,5 +137,21 @@
           <guid isPermaLink="false">new-uptoday-ai--21-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-22-Jan-2026.mp3" type="audio/mpeg" length="3614138" />
         </item>
+        <item>
+          <title>UpToDay AI — 23 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Mercedes‑Benz CLA named Euro NCAP Best Performer of 2025, powered by NVIDIA DRIVE AV — &lt;a href=&quot;https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/&quot;&gt;https://blogs.nvidia.com/blog/drive-av-mercedes-benz-cla-euro-ncap-safety-award/&lt;/a&gt;
+- 2. Google rolls out Personal Intelligence to AI Mode in Search for Pro and Ultra subscribers — &lt;a href=&quot;https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/&quot;&gt;https://blog.google/products-and-platforms/products/search/personal-intelligence-ai-mode-search/&lt;/a&gt;
+- 3. NVIDIA guides creators to run ComfyUI and new models locally on RTX PCs — &lt;a href=&quot;https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-tutorial/&quot;&gt;https://blogs.nvidia.com/blog/rtx-ai-garage-comfyui-tutorial/&lt;/a&gt;
+- 4. Survey: Financial services firms increase AI use, favor open source and report clear ROI — &lt;a href=&quot;https://blogs.nvidia.com/blog/ai-in-financial-services-survey-2026/&quot;&gt;https://blogs.nvidia.com/blog/ai-in-financial-services-survey-2026/&lt;/a&gt;
+- 5. GeForce NOW adds flight control support and new cloud games — &lt;a href=&quot;https://blogs.nvidia.com/blog/geforce-now-thursday-flight-controls/&quot;&gt;https://blogs.nvidia.com/blog/geforce-now-thursday-flight-controls/&lt;/a&gt;
+- 6. OpenAI details PostgreSQL scaling to millions of queries per second — &lt;a href=&quot;https://openai.com/index/scaling-postgresql&quot;&gt;https://openai.com/index/scaling-postgresql&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Fri, 23 Jan 2026 11:17:52 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--23-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-23-Jan-2026.mp3" type="audio/mpeg" length="3885393" />
+        </item>
     </channel>
 </rss>
