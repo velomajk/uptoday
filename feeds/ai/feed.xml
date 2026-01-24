@@ -153,5 +153,16 @@
           <guid isPermaLink="false">new-uptoday-ai--23-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-23-Jan-2026.mp3" type="audio/mpeg" length="3885393" />
         </item>
+        <item>
+          <title>UpToDay AI — 24 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Unrolling the Codex agent loop — &lt;a href=&quot;https://openai.com/index/unrolling-the-codex-agent-loop&quot;&gt;https://openai.com/index/unrolling-the-codex-agent-loop&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sat, 24 Jan 2026 11:16:04 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--24-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-24-Jan-2026.mp3" type="audio/mpeg" length="831365" />
+        </item>
     </channel>
 </rss>
