@@ -176,5 +176,20 @@
           <guid isPermaLink="false">new-uptoday-ai--27-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-27-Jan-2026.mp3" type="audio/mpeg" length="2088169" />
         </item>
+        <item>
+          <title>UpToDay AI — 28 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI unveils EU Economic Blueprint 2.0 to boost adoption and skills — &lt;a href=&quot;https://openai.com/index/the-next-chapter-for-ai-in-the-eu&quot;&gt;https://openai.com/index/the-next-chapter-for-ai-in-the-eu&lt;/a&gt;
+- 2. Revolut selects ElevenLabs Agents to bolster voice customer support — &lt;a href=&quot;https://elevenlabs.io/blog/revolut&quot;&gt;https://elevenlabs.io/blog/revolut&lt;/a&gt;
+- 3. OpenAI outlines safeguards against URL-based data exfiltration — &lt;a href=&quot;https://openai.com/index/ai-agent-link-safety&quot;&gt;https://openai.com/index/ai-agent-link-safety&lt;/a&gt;
+- 4. NVIDIA pushes to reauthorize the National Quantum Initiative — &lt;a href=&quot;https://blogs.nvidia.com/blog/national-quantum-initiative/&quot;&gt;https://blogs.nvidia.com/blog/national-quantum-initiative/&lt;/a&gt;
+- 5. OpenAI launches EMEA Youth &amp; Wellbeing Grant to study AI&apos;s effects on young people — &lt;a href=&quot;https://openai.com/index/emea-youth-and-wellbeing-grant&quot;&gt;https://openai.com/index/emea-youth-and-wellbeing-grant&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Wed, 28 Jan 2026 20:58:36 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--28-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-28-Jan-2026.mp3" type="audio/mpeg" length="4547022" />
+        </item>
     </channel>
 </rss>
