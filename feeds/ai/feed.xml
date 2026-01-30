@@ -191,5 +191,21 @@
           <guid isPermaLink="false">new-uptoday-ai--28-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-28-Jan-2026.mp3" type="audio/mpeg" length="4547022" />
         </item>
+        <item>
+          <title>UpToDay AI — 30 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Amazon names Peter DeSantis to lead new AI, silicon and quantum organization; Pieter Abbeel to lead frontier model research; Rohit Prasad to depart — &lt;a href=&quot;https://www.aboutamazon.com/news/company-news/andy-jassy-peter-desantis-amazon-leadership-update&quot;&gt;https://www.aboutamazon.com/news/company-news/andy-jassy-peter-desantis-amazon-leadership-update&lt;/a&gt;
+- 2. Amazon launches Nova 2 family, Nova Forge for custom frontier models, and Nova Act for reliable browser agents — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models&quot;&gt;https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models&lt;/a&gt;
+- 3. AWS unveils frontier agents — Kiro, AWS Security Agent, and AWS DevOps Agent — to act as autonomous team members — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro&quot;&gt;https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro&lt;/a&gt;
+- 4. Amazon Bedrock AgentCore adds Policy controls, Evaluations, and episodic Memory for safer, smarter agents — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-agent-core-ai-agents&quot;&gt;https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-agent-core-ai-agents&lt;/a&gt;
+- 5. Trainium3 UltraServers now generally available, offering big gains in performance and efficiency — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost&quot;&gt;https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost&lt;/a&gt;
+- 6. AWS AI Factories bring NVIDIA and Trainium infrastructure into customer data centers, with dedicated deployments and an AI Zone partnership — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/aws-data-centers-ai-factories&quot;&gt;https://www.aboutamazon.com/news/aws/aws-data-centers-ai-factories&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Fri, 30 Jan 2026 19:13:27 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--30-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-30-Jan-2026.mp3" type="audio/mpeg" length="3647574" />
+        </item>
     </channel>
 </rss>
