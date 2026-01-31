@@ -207,5 +207,17 @@
           <guid isPermaLink="false">new-uptoday-ai--30-january-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-30-Jan-2026.mp3" type="audio/mpeg" length="3647574" />
         </item>
+        <item>
+          <title>UpToDay AI — 31 January 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Study finds AI assistance can reduce immediate coding mastery despite small speed gains — &lt;a href=&quot;https://www.anthropic.com/research/AI-assistance-coding-skills&quot;&gt;https://www.anthropic.com/research/AI-assistance-coding-skills&lt;/a&gt;
+Notes: This report describes a randomized controlled trial of 52 participants, immediate quiz results (AI group 50% vs hand-coding 67%), interaction patterns, and qualitative findings. Read the full paper for details.
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sat, 31 Jan 2026 18:49:55 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--31-january-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-31-Jan-2026.mp3" type="audio/mpeg" length="2262458" />
+        </item>
     </channel>
 </rss>
