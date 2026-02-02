@@ -228,5 +228,21 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--1-february-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-01-Feb-2026.mp3" type="audio/mpeg" length="2229021" />
         </item>
+        <item>
+          <title>UpToDay AI — 2 February 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Amazon expands Nova family and launches Nova Forge and Nova Act — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models&quot;&gt;https://www.aboutamazon.com/news/aws/aws-agentic-ai-amazon-bedrock-nova-models&lt;/a&gt;
+- 2. AWS unveils frontier agents to act like members of development teams — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro&quot;&gt;https://www.aboutamazon.com/news/aws/amazon-ai-frontier-agents-autonomous-kiro&lt;/a&gt;
+- 3. AgentCore adds Policy, Evaluations, and episodic Memory — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-agent-core-ai-agents&quot;&gt;https://www.aboutamazon.com/news/aws/aws-amazon-bedrock-agent-core-ai-agents&lt;/a&gt;
+- 4. Trainium3 UltraServers now available for faster, lower-cost AI training — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost&quot;&gt;https://www.aboutamazon.com/news/aws/trainium-3-ultraserver-faster-ai-training-lower-cost&lt;/a&gt;
+- 5. AWS AI Factories bring dedicated AWS AI infrastructure into customer data centers — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/aws-data-centers-ai-factories&quot;&gt;https://www.aboutamazon.com/news/aws/aws-data-centers-ai-factories&lt;/a&gt;
+- 6. Amazon simplifies model customization with RFT in Bedrock and SageMaker AI serverless tools — &lt;a href=&quot;https://www.aboutamazon.com/news/aws/amazon-sagemaker-ai-amazon-bedrock-aws-ai-agents&quot;&gt;https://www.aboutamazon.com/news/aws/amazon-sagemaker-ai-amazon-bedrock-aws-ai-agents&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Mon, 02 Feb 2026 11:23:00 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--2-february-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-02-Feb-2026.mp3" type="audio/mpeg" length="3910889" />
+        </item>
     </channel>
 </rss>
