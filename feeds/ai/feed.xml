@@ -321,5 +321,21 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--16-march-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-16-Mar-2026.mp3" type="audio/mpeg" length="5073233" />
         </item>
+        <item>
+          <title>UpToDay AI — 18 March 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI unveils GPT-5.4 mini and nano — &lt;a href=&quot;https://openai.com/index/introducing-gpt-5-4-mini-and-nano&quot;&gt;https://openai.com/index/introducing-gpt-5-4-mini-and-nano&lt;/a&gt;
+- 2. NVIDIA at GTC spotlights AI PCs, open models and NemoClaw — &lt;a href=&quot;https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/&quot;&gt;https://blogs.nvidia.com/blog/rtx-ai-garage-gtc-2026-nemoclaw/&lt;/a&gt;
+- 3. Google expands Personal Intelligence across Search and Gemini — &lt;a href=&quot;https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/&quot;&gt;https://blog.google/products-and-platforms/products/search/personal-intelligence-expansion/&lt;/a&gt;
+- 4. Google and partners invest in open source security via Alpha-Omega — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/&quot;&gt;https://blog.google/innovation-and-ai/technology/safety-security/ai-powered-open-source-security/&lt;/a&gt;
+- 5. OpenAI research: 3 million daily ChatGPT queries on pay — &lt;a href=&quot;https://openai.com/index/equipping-workers-with-insights-about-compensation&quot;&gt;https://openai.com/index/equipping-workers-with-insights-about-compensation&lt;/a&gt;
+- 6. Codex Security favors AI constraint reasoning over SAST — &lt;a href=&quot;https://openai.com/index/why-codex-security-doesnt-include-sast&quot;&gt;https://openai.com/index/why-codex-security-doesnt-include-sast&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Wed, 18 Mar 2026 22:54:39 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--18-march-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-18-Mar-2026.mp3" type="audio/mpeg" length="3433579" />
+        </item>
     </channel>
 </rss>
