@@ -384,5 +384,17 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--21-march-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-21-Mar-2026.mp3" type="audio/mpeg" length="2908622" />
         </item>
+        <item>
+          <title>UpToDay AI — 22 March 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI to acquire Astral — &lt;a href=&quot;https://openai.com/index/openai-to-acquire-astral&quot;&gt;https://openai.com/index/openai-to-acquire-astral&lt;/a&gt;
+- 2. How we monitor internal coding agents for misalignment — &lt;a href=&quot;https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment&quot;&gt;https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sun, 22 Mar 2026 11:18:55 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--22-march-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-22-Mar-2026.mp3" type="audio/mpeg" length="3120110" />
+        </item>
     </channel>
 </rss>
