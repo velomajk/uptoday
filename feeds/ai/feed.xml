@@ -396,5 +396,17 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--22-march-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-22-Mar-2026.mp3" type="audio/mpeg" length="3120110" />
         </item>
+        <item>
+          <title>UpToDay AI — 24 March 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. NVIDIA builds OpenShell, an open-source runtime to sandbox autonomous AI agents. — &lt;a href=&quot;https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/&quot;&gt;https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/&lt;/a&gt;
+- 2. OpenAI says Sora 2 and the Sora app include built-in safety protections for video generation. — &lt;a href=&quot;https://openai.com/index/creating-with-sora-safely&quot;&gt;https://openai.com/index/creating-with-sora-safely&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Tue, 24 Mar 2026 11:16:30 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--24-march-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-24-Mar-2026.mp3" type="audio/mpeg" length="1978245" />
+        </item>
     </channel>
 </rss>
