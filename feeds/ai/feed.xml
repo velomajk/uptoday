@@ -408,5 +408,20 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--24-march-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-24-Mar-2026.mp3" type="audio/mpeg" length="1978245" />
         </item>
+        <item>
+          <title>UpToDay AI — 25 March 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI Foundation to deploy at least $1 billion across life sciences, jobs, AI resilience and communities — &lt;a href=&quot;https://openai.com/index/update-on-the-openai-foundation&quot;&gt;https://openai.com/index/update-on-the-openai-foundation&lt;/a&gt;
+- 2. ChatGPT adds richer, visual product discovery via the Agentic Commerce Protocol — &lt;a href=&quot;https://openai.com/index/powering-product-discovery-in-chatgpt&quot;&gt;https://openai.com/index/powering-product-discovery-in-chatgpt&lt;/a&gt;
+- 3. Open-source teen safety policies released to work with gpt-oss-safeguard — &lt;a href=&quot;https://openai.com/index/teen-safety-policies-gpt-oss-safeguard&quot;&gt;https://openai.com/index/teen-safety-policies-gpt-oss-safeguard&lt;/a&gt;
+- 4. NVIDIA OpenShell secures autonomous agents with a sandboxed runtime — &lt;a href=&quot;https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/&quot;&gt;https://blogs.nvidia.com/blog/secure-autonomous-ai-agents-openshell/&lt;/a&gt;
+- 5. Sora 2 and the Sora app emphasize safety in state-of-the-art video generation — &lt;a href=&quot;https://openai.com/index/creating-with-sora-safely&quot;&gt;https://openai.com/index/creating-with-sora-safely&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Wed, 25 Mar 2026 11:18:17 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--25-march-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-25-Mar-2026.mp3" type="audio/mpeg" length="3640887" />
+        </item>
     </channel>
 </rss>
