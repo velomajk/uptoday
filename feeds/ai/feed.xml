@@ -455,5 +455,21 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--27-march-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-27-Mar-2026.mp3" type="audio/mpeg" length="3820191" />
         </item>
+        <item>
+          <title>UpToDay AI — 28 March 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Google upgrades real-time voice with a higher-quality Gemini audio model — &lt;a href=&quot;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/&quot;&gt;https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/&lt;/a&gt;
+- 2. Google rolls out Lyria 3 music models for developers — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/&quot;&gt;https://blog.google/innovation-and-ai/technology/developers-tools/lyria-3-developers/&lt;/a&gt;
+- 3. OpenAI explains its public Model Spec for intended model behavior — &lt;a href=&quot;https://openai.com/index/our-approach-to-the-model-spec&quot;&gt;https://openai.com/index/our-approach-to-the-model-spec&lt;/a&gt;
+- 4. OpenAI launches a Safety Bug Bounty focused on AI abuse and safety risks — &lt;a href=&quot;https://openai.com/index/safety-bug-bounty&quot;&gt;https://openai.com/index/safety-bug-bounty&lt;/a&gt;
+- 5. TVS Motor scales multimodal agents with ElevenLabs, boosting leads and feedback speed — &lt;a href=&quot;https://elevenlabs.io/blog/tvs-motor-multimodal-agents&quot;&gt;https://elevenlabs.io/blog/tvs-motor-multimodal-agents&lt;/a&gt;
+- 6. NVIDIA says AI&apos;s future is both open and proprietary and launches the Nemotron Coalition — &lt;a href=&quot;https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/&quot;&gt;https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sat, 28 Mar 2026 11:17:57 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--28-march-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-28-Mar-2026.mp3" type="audio/mpeg" length="4132407" />
+        </item>
     </channel>
 </rss>
