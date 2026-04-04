@@ -471,5 +471,21 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--28-march-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-28-Mar-2026.mp3" type="audio/mpeg" length="4132407" />
         </item>
+        <item>
+          <title>UpToDay AI — 4 April 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. OpenAI closes $122 billion funding round at $852 billion valuation — &lt;a href=&quot;https://openai.com/index/accelerating-the-next-phase-ai&quot;&gt;https://openai.com/index/accelerating-the-next-phase-ai&lt;/a&gt;
+- 2. Google adds Flex and Priority tiers to the Gemini API — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/&quot;&gt;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/&lt;/a&gt;
+- 3. NVIDIA optimizes Gemma 4 for local, agentic AI across devices — &lt;a href=&quot;https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/&quot;&gt;https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/&lt;/a&gt;
+- 4. Google launches Veo 3.1 Lite, a lower-cost video generation model — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/&quot;&gt;https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/&lt;/a&gt;
+- 5. OpenAI adds pay-as-you-go Codex-only seats and lowers ChatGPT Business price — &lt;a href=&quot;https://openai.com/index/codex-flexible-pricing-for-teams&quot;&gt;https://openai.com/index/codex-flexible-pricing-for-teams&lt;/a&gt;
+- 6. Gradient Labs deploys OpenAI models to give every bank customer an AI account manager — &lt;a href=&quot;https://openai.com/index/gradient-labs&quot;&gt;https://openai.com/index/gradient-labs&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sat, 04 Apr 2026 10:17:09 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--4-april-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-04-Apr-2026.mp3" type="audio/mpeg" length="5101654" />
+        </item>
     </channel>
 </rss>
