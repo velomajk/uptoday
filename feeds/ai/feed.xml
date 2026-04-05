@@ -487,5 +487,21 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--4-april-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-04-Apr-2026.mp3" type="audio/mpeg" length="5101654" />
         </item>
+        <item>
+          <title>UpToDay AI — 5 April 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. From RTX to Spark: NVIDIA Accelerates Gemma 4 for Local Agentic AI — &lt;a href=&quot;https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/&quot;&gt;https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/&lt;/a&gt;
+- 2. New ways to balance cost and reliability in the Gemini API — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/&quot;&gt;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/&lt;/a&gt;
+- 3. Create, edit and share videos at no cost in Google Vids — &lt;a href=&quot;https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/&quot;&gt;https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/&lt;/a&gt;
+- 4. OpenAI acquires TBPN — &lt;a href=&quot;https://openai.com/index/openai-acquires-tbpn&quot;&gt;https://openai.com/index/openai-acquires-tbpn&lt;/a&gt;
+- 5. Codex now offers more flexible pricing for teams — &lt;a href=&quot;https://openai.com/index/codex-flexible-pricing-for-teams&quot;&gt;https://openai.com/index/codex-flexible-pricing-for-teams&lt;/a&gt;
+- 6. We&apos;re creating a new satellite imagery map to help protect Brazil&apos;s forests. — &lt;a href=&quot;https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/&quot;&gt;https://blog.google/products-and-platforms/products/earth/satellite-imagery-brazilian-deforestation/&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Sun, 05 Apr 2026 10:17:58 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--5-april-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-05-Apr-2026.mp3" type="audio/mpeg" length="3221256" />
+        </item>
     </channel>
 </rss>
