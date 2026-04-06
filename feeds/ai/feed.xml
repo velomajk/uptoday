@@ -503,5 +503,19 @@ Notes: This report describes a randomized controlled trial of 52 participants, i
           <guid isPermaLink="false">new-uptoday-ai--5-april-2026</guid>
           <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-05-Apr-2026.mp3" type="audio/mpeg" length="3221256" />
         </item>
+        <item>
+          <title>UpToDay AI — 6 April 2026</title>
+          <description>&lt;b&gt;Stories &amp; Sources&lt;/b&gt;&lt;br/&gt;
+- 1. Google adds Flex and Priority tiers to Gemini API — &lt;a href=&quot;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/&quot;&gt;https://blog.google/innovation-and-ai/technology/developers-tools/introducing-flex-and-priority-inference/&lt;/a&gt;
+- 2. NVIDIA and Google optimize Gemma 4 for local GPUs and agents — &lt;a href=&quot;https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/&quot;&gt;https://blogs.nvidia.com/blog/rtx-ai-garage-open-models-google-gemma-4/&lt;/a&gt;
+- 3. Google Vids offers free videos, custom music and AI avatars — &lt;a href=&quot;https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/&quot;&gt;https://blog.google/products-and-platforms/products/workspace/google-vids-updates-lyria-veo/&lt;/a&gt;
+- 4. OpenAI acquires TBPN, preserves editorial independence — &lt;a href=&quot;https://openai.com/index/openai-acquires-tbpn&quot;&gt;https://openai.com/index/openai-acquires-tbpn&lt;/a&gt;
+
+&lt;br/&gt;&lt;br/&gt;&lt;i&gt;&lt;/i&gt;</description>
+          <link>https://velomajk.github.io/uptoday/feeds/ai/feed.xml</link>
+          <pubDate>Mon, 06 Apr 2026 10:19:13 GMT</pubDate>
+          <guid isPermaLink="false">new-uptoday-ai--6-april-2026</guid>
+          <enclosure url="https://storage.googleapis.com/up-to-day-podcasts/podcasts/uptoday/uptoday-ai/uptoday-ai-06-Apr-2026.mp3" type="audio/mpeg" length="3018964" />
+        </item>
     </channel>
 </rss>
